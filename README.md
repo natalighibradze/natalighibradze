@@ -3,7 +3,7 @@
 
 - 👨‍💻 Skills: React, Javascript, Typescript, HTML, CSS 
 
-- 📫 How to reach me **natgibradze@gmail.com**
+- 📫 How to reach me: **natgibradze@gmail.com**
 
 - ⚡️Passion: **Eager for new challenges, Keep up with industry trends**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✨, I'm Natali Ghibradze</h1>
 <h3 align="center">Junior Front-End Developer and Computer Science student with a passion for technology and drive to learn.</h3>
 
-- 👨‍💻 Skills: **React, Git, GitHub, Node + npm**
+- 👨‍💻 Skills: **React, Javascript, Typescript, HTML, CSS **
 
 - 📫 How to reach me **natgibradze@gmail.com**
 

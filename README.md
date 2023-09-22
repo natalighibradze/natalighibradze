@@ -5,7 +5,7 @@
 
 - 👨‍💻 Developer Tools: **Git, GitHub, Node + npm, Redux, ESLint, Axios**
 
-- 📫 How to reach me **natgibradze@gmail.com**
+- 📫 How to reach me: **natgibradze@gmail.com**
 
 - ⚡️Passion: **Eager for new challenges, Keeping up with industry trends**
 

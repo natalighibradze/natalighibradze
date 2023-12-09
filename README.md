@@ -1,13 +1,13 @@
 <h1 align="center">Hi✨ I'm Natali Ghibradze</h1>
-<h3 align="center">Junior Front-End Developer and Computer Science student with a passion and drive to learn.</h3>
+<h3 align="center">Aspiring Data Engineer and Computer Science student with a passion and drive to learn.</h3>
 
-- 👩🏽‍🎓 Front-End: **JavaScript, React, Typescript, HTML, CSS,**
+- 👩🏽‍🎓 	Proficient in Python and SQL, laying the foundation for robust data solutions.
 
-- 👨‍💻 Developer Tools: **Git, GitHub, Node + npm, Redux, ESLint, Axios**
+- 👨‍💻 Aspiring expertise in Big Data tools, currently in the early stages of exploration and learning.
 
 - 📫 How to reach me: **natgibradze@gmail.com**
 
-- ⚡️Passion: **Eager for new challenges, Keeping up with industry trends**
+- ⚡️Passion: **Commited to expanding skills and exploring new technologies in the dynamic field of data engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
